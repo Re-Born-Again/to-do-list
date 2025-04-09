@@ -25,9 +25,9 @@ A simple web-based To-Do List app built with **Express**, **EJS**, and **Postgre
 to-do-list/
 ├── public/
 │   ├── assets/
-│       └── icons/
-│           ├── check-solid.svg
-│           └── pencil-solid.svg
+│   │    └── icons/
+│   │        ├── check-solid.svg
+│   │        └── pencil-solid.svg
 │   └── styles/
 │        └── main.css
 ├── views/

@@ -70,6 +70,10 @@ psql -d todolist -f queries.sql
 ### 4. Run the server
 
 ```bash
+nodemon index.js
+```
+or
+```bash
 node index.js
 ```
 
